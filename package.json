@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/xcezx/faker-alldead.git"
   },
-  "main": "lib/Alldead.js",
+  "main": "lib/index.js",
   "dependencies": {
     "faker": "^3.1.0"
   },
