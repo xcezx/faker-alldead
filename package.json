@@ -1,0 +1,19 @@
+{
+  "name": "faker-alldead",
+  "description": "Generate HAIKU with Faker.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xcezx/faker-alldead.git"
+  },
+  "main": "lib/Alldead.js",
+  "dependencies": {
+    "faker": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xcezx <main.xcezx@gmail.com>",
+  "license": "MIT"
+}
